@@ -38,11 +38,11 @@ cloudflare_email = "替换你登录CF的邮箱"
 zone_id = "你域名的区域ID"
 
 # 域名
-domain_name = "替换你在cf托管的域名，比如dabo.free.hr"
+domain_name = "替换你在cf托管的域名，比如jose.free.hr"
 # DNS 记录名称
 record_short_name = "替换你的dns名称，比如cfip"
 # 优选域名全名称
-record_name = "替换你的域名全称 比如cfip.dabo.free.hr"
+record_name = "替换你的域名全称 比如cfip.jose.free.hr"
 
 # 要添加的 DNS 记录
 dns_records = []
