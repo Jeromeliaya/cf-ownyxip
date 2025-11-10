@@ -4,7 +4,8 @@ cf自建优选域名
 
 ## 前言
 ### 自建优选域名
-### 基于vps789.com-全球主机测速平台接口： https://vps789.com/vps/sum/cfIpTop20 提供的优选IP 自动更新优选域名。特别感谢ns大佬captain102 以及vps789.com 开放了优选IP的API
+### 基于vps789.com-全球主机测速平台接口： https://vps789.com/vps/sum/cfIpTop20 【该API已失效】
+请访问[https://vps789.com/apiwiki/](https://vps789.com/apiwiki/)自行研究提供的优选IP 自动更新优选域名。特别感谢ns大佬captain102 以及vps789.com 开放了优选IP的API
 ### 建议结合 https://www.nodeseek.com/post-84561-1 的文档配合食用
 
 ## 准备工作
